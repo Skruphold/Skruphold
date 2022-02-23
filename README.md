@@ -32,4 +32,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## My Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=skruphold&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=skruphold&show_icons=true&theme=highcontrast)
