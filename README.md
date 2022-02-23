@@ -8,7 +8,7 @@
 - 📫 How to reach me: Hunterco999@gmail.com
 - ⚡ Fun fact: I have visited 12 countries and 37 states.
 
-## languages
+## Experience with
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -32,4 +32,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## My Github Stats
-![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=skruphold&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=skruphold&show_icons=true&theme=cobalt)
