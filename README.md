@@ -40,5 +40,6 @@
 
 ## My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skruphold&show_icons=true&theme=onedark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skruphold&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
