@@ -8,7 +8,8 @@
 - 📫 How to reach me: Hunterco999@gmail.com
 - ⚡ Fun fact: I have visited 12 countries and 37 states.
 
-##
+## Get in touch with me!
+
 
 ## Experience with
 
