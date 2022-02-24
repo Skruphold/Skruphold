@@ -8,6 +8,8 @@
 - 📫 How to reach me: Hunterco999@gmail.com
 - ⚡ Fun fact: I have visited 12 countries and 37 states.
 
+##
+
 ## Experience with
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -36,3 +38,5 @@
 
 ## My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skruphold&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skruphold&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
